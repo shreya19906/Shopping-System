@@ -1,0 +1,17 @@
+
+.item{
+  padding:10px;
+ display: inline-block;
+  border: 1px solid lightblue;
+}
+.thumbnail img{
+  max-height: 150px;
+}
+
+.price{
+  font-weight: bold;
+  font-size: 15px;
+}
+
+
+
